@@ -86,6 +86,3 @@ docs/
 - [ ] Fork a repository and contribute through an upstream workflow.
 - [ ] Create a tag and GitHub release.
 - [ ] Understand a basic GitHub Actions workflow.
-
-## License
-MIT. This repository is intended for education and personal practice.
